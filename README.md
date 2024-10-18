@@ -2,10 +2,9 @@
 ## 🙋 About me
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=JaeYeon&fontSize=90&animation=twinkling)
-
-#### - 새로운 것을 배우고 적용시키는 과정을 즐깁니다
-#### - 한 번 시작한 것은 끝을 봐야합니다
-#### - 개발을 정말 좋아합니다
+- 새로운 것을 배우고 적용시키는 과정을 즐깁니다
+- 한 번 시작한 것은 끝을 봐야합니다
+- 개발을 정말 좋아합니다
 <br>
 <br>
 <br>
