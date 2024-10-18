@@ -41,7 +41,7 @@
 <br>
 
 
-## Github stats
+## 💻 Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdbs1107&hide=contribs,prs&show_icons=true&theme=graywhite)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdbs1107)](https://github.com/anuraghazra/github-readme-stats)
