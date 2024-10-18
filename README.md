@@ -1,6 +1,9 @@
 <!--타이틀 부분-->
 ## 🙋 About me
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=JAEYEON&fontSize=90)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaeYeon&fontSize=50&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62"/>
+</p>
+
 - 새로운 것을 배우고 적용시키는 과정을 즐깁니다
 - 한 번 시작한 것은 끝을 봐야합니다
 - 개발 공부가 진짜 재밌습니다
